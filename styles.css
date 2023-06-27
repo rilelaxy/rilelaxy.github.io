@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Gentium Book Plus';
-    src: url('fonts/GentiumBookPlus-Regular.ttf') format('truetype');
-  }
+  font-family: 'Gentium Book Plus';
+  src: url('fonts/GentiumBookPlus-Regular.ttf') format('truetype');
+}
   p {
     font-family: 'Gentium Book Plus', serif;
   }
